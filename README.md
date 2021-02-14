@@ -1,6 +1,6 @@
 # ENEL645W21-Assignemnt2
 
-*** Experimenting FCN/CNN using CIFAR14 dataset
+** Experimenting FCN/CNN using CIFAR14 dataset
 
 | Collaborators |
 -----------------
