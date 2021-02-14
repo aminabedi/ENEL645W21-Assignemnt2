@@ -6,6 +6,6 @@
 | ----------------- | 
 | Sara Golestani |
 | Amin Abedi |
-| Uzma Ahmed Din |
+| Uzma Ahmad Din |
 | Maya Al-Akkad |
 | Sonia Soleimani |
